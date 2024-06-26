@@ -41,7 +41,7 @@ This implementation can be used to solve multivariate (more than one dimensions)
             * Arguments: None.
             * Return: List of the best individuals in the last generation.
 
-<!-- ## Example
+## Example
 Examples about SCH problem and KUR problem are showed in _sch.py_ and _kur.py_.
 
 In addition, the results of some popular multi-objective problems is demonstrated as belows:
@@ -51,4 +51,3 @@ In addition, the results of some popular multi-objective problems is demonstrate
 * ZDT1 ![ZDT1](pictures/ZDT1.png)
 * ZDT4 ![ZDT4](pictures/ZDT4.png)
 * VIENNET ![VIENNET](pictures/VIENNET.png)
- -->
